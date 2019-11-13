@@ -31,7 +31,7 @@
 
 # Test Lambda Function
 
-1. Click Test.
+1. Click Test. (Make sure to increase timeout info to 1 min 3 sec in Basic settings in order to give enough time for a function to execute)
 2. Define an empty test event. Its contents can simply be {}.
 3. Give it any name you like.
 4. Click Create.
